@@ -102,8 +102,8 @@ PRODUCT_COPY_FILES += \
 # Camera
 PRODUCT_PACKAGES += \
     libshim_camera
-    Snap
-
+    /tSnap
+    
 # Connectivity Engine support (CNE)
 PRODUCT_PACKAGES += \
     cneapiclient \
